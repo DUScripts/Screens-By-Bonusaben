@@ -1,9 +1,41 @@
 # Screens-By-Bonusaben
 LUA screens by Bonusaben
 
+# Install
 Pase codes into LUA tab on screens or signs.
 
-
-![image text](https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png)
-
-![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
+# Images
+![Amazed](/images/Amazed.jpg?raw=true "Amazed")
+![Bezier](/images/Bezier.jpg?raw=true "Bezier")
+![Blinds](/images/Blinds.jpg?raw=true "Blinds")
+![Chained](/images/Chained.jpg?raw=true "Chained")
+![Champagne](/images/Champagne.jpg?raw=true "Champagne")
+![Cubic](/images/Cubic.jpg?raw=true "Cubic")
+![Dots_in_time](/images/Dots_in_time.jpg?raw=true "Dots_in_time")
+![Duck](/images/Duck.jpg?raw=true "Duck")
+![Flow](/images/Flow.jpg?raw=true "Flow")
+![Germa](/images/Germa.jpg?raw=true "Germa")
+![Hanger](/images/Hanger.jpg?raw=true "Hanger")
+![Hexasweep](/images/Hexasweep.jpg?raw=true "Hexasweep")
+![Imposter](/images/Imposter.jpg?raw=true "Imposter")
+![Life](/images/Life.jpg?raw=true "Life")
+![Line_of_fire](/images/Line_of_fire.jpg?raw=true "Line_of_fire")
+![Malignant](/images/Malignant.jpg?raw=true "Malignant")
+![Meta](/images/Meta.jpg?raw=true "Meta")
+![Pegged](/images/Pegged.jpg?raw=true "Pegged")
+![Petri](/images/Petri.jpg?raw=true "Petri")
+![Phyllotaxis](/images/Phyllotaxis.jpg?raw=true "Phyllotaxis")
+![Pie](/images/Pie.jpg?raw=true "Pie")
+![Piston](/images/Piston.jpg?raw=true "Piston")
+![Pixel](/images/Pixel.jpg?raw=true "Pixel")
+![Pop](/images/Pop.jpg?raw=true "Pop")
+![Prism](/images/Prism.jpg?raw=true "Prism")
+![Ruby_mona](/images/Ruby_mona.jpg?raw=true "Ruby_mona")
+![Scape](/images/Scape.jpg?raw=true "Scape")
+![Scratch](/images/Scratch.jpg?raw=true "Scratch")
+![Shredded](/images/Shredded.jpg?raw=true "Shredded")
+![Sinus](/images/Sinus.jpg?raw=true "Sinus")
+![Soup](/images/Soup.jpg?raw=true "Soup")
+![Spoon](/images/Spoon.jpg?raw=true "Spoon")
+![Supershape](/images/Supershape.jpg?raw=true "Supershape")
+![Timecore](/images/Timecore.jpg?raw=true "Timecore")
